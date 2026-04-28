@@ -30,7 +30,7 @@ The dataset includes:
 
 ## Dashboard Preview
 
-(Screenshots go here)
+(Screenshots go here -- > https://github.com/SumitDataAnalayst/bank-customer-churn-powerbi/blob/SumitDataAnalayst-patch-1/bank_dashboard_SS.png)
 
 ## 🛠 Tools Used
 
